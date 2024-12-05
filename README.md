@@ -33,7 +33,7 @@ The article builds upon the paper's findings, emphasizing:
 - A breakdown of the **RAG architecture** and ablation studies.
 - Insights into the future of AI powered by LLM-VecDB integration.
 
-[Read the Medium Article](#)
+[Read the Medium Article](https://medium.com/@subhashr161347/when-large-language-models-meet-vector-databases-the-future-of-ai-integration-b4e59a51f6bc)
 
 ---
 
@@ -43,7 +43,7 @@ The presentation provides:
 - Comparative **metrics and evaluations** showcasing performance improvements.
 - Real-world use cases in domains like e-commerce, chatbots, and analytics.
 
-[Download the Slides](./Slides.pptx)
+[Download the Slides](./LLMs_and_VecDBs_Presentation.pptx)
 
 ---
 
