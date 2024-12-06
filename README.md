@@ -53,7 +53,7 @@ A 10-15 minute walkthrough of the project, including:
 - Breakdown of the integration architecture, supported by visualizations.
 - Discussion of applications and future research directions.
 
-[Watch the Video](./Video_Presentation.mp4)
+[Watch the Video](https://drive.google.com/drive/folders/1fz0KkPoJ1iE4H3HQFMB4Ntvrn1-xHToT?usp=drive_link)
 
 ---
 
